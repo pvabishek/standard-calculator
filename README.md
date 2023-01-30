@@ -162,6 +162,13 @@ for (item of buttons) {
 }
 
 ## OUTPUT:
+![Screenshot (22)](https://user-images.githubusercontent.com/119405626/215389913-0194bff4-a88c-43c6-aa7a-e93fd52ff034.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/119405626/215389927-6c031c0a-865e-45ca-9297-bd948e8ab511.png)
+
+## HTML validator
+
+![Screenshot (24)](https://user-images.githubusercontent.com/119405626/215390005-7e2bb94d-e36d-4f1d-8224-02fb839a606d.png)
+
 
 ## Result:
-
+Thus, the program for designing a simple calculator using javascript , css, and html is executed successfully.
